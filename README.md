@@ -1,0 +1,3 @@
+# Lottery
+RandomForLottery
+IDE： pycharm
